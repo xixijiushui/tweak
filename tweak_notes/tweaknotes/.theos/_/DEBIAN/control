@@ -1,0 +1,10 @@
+Package: com.zw.tweakNotes
+Name: tweakNotes
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 赵伟
+Author: 赵伟
+Section: Tweaks
+Version: 0.0.1-7+debug
+Installed-Size: 120
