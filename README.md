@@ -13,7 +13,7 @@ tweak_youku存放了theos的库
 
 header存放了yk导出的头文件
 
-**tweak_mail**:邮箱白名单(有bug,自动标记已读会闪退,后期修复)
+**tweak_mail**:邮箱白名单(有bug,自动标记已读会闪退)
 
 tweakmail存放了theos的库
 
